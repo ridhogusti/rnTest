@@ -7,8 +7,26 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "eslint-config-equimper": "^2.2.2",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.22.2",
+    "native-base": "^2.7.2",
     "react": "16.4.1",
-    "react-native": "0.56.0"
+    "react-native": "0.56.0",
+    "react-native-animatable": "^1.3.0",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-htmlview": "^0.13.0",
+    "react-native-modal-datetime-picker": "^6.0.0",
+    "react-native-simple-radio-button": "^2.7.2",
+    "react-native-vector-icons": "^5.0.0",
+    "react-navigation": "^2.10.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-promise-middleware": "^5.1.1",
+    "redux-saga": "^0.16.0",
+    "redux-thunk": "^2.3.0",
+    "sync-storage": "^0.2.2"
   },
   "devDependencies": {
     "babel-jest": "23.4.2",
